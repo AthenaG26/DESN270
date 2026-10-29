@@ -15,14 +15,6 @@ body {
     display:none;
 }
 
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-    background: #FFD14C;
-background: linear-gradient(180deg, rgba(255, 209, 76, 1) 0%, rgba(255, 209, 76, 1) 48%, rgba(200, 238, 247, 1) 95%);
-}
 
  .Icon{
         display: flex; 
@@ -99,7 +91,7 @@ body {
   background-color: var(--paper);
 }
 
-
+header,
 main,
 footer {
   max-width: 720px;
@@ -108,6 +100,9 @@ footer {
 }
 
 
+.site-header {
+  margin-bottom: 2rem;
+}
 
 
 /* Keep the content from stretching too wide on large monitors. */
