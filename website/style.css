@@ -99,7 +99,11 @@ body {
   background-color: var(--paper);
 }
 
-header,
+header{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 main,
 footer {
   max-width: 720px;
