@@ -21,6 +21,7 @@ header {
     align-items: center;
     position: relative;
     background: #FFD14C;
+background: linear-gradient(180deg, rgba(255, 209, 76, 1) 0%, rgba(255, 209, 76, 1) 48%, rgba(255, 209, 76, 1) 95%);
 }
 
  .Icon{
