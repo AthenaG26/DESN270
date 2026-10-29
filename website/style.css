@@ -99,10 +99,6 @@ body {
   background-color: var(--paper);
 }
 
-header{
-  margin-left: auto;
-  margin-right: auto;
-}
 
 main,
 footer {
