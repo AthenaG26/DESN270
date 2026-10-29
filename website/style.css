@@ -8,9 +8,12 @@ body {
 .home main{
     
 }
+
+
+.material-symbols-outlined{
+    color: #fff;
+    display:none;
 }
-
-
 
 header {
     display: flex;
