@@ -13,3 +13,40 @@ header {
     background: #FFD14C;
 background: linear-gradient(180deg, rgba(255, 209, 76, 1) 0%, rgba(255, 209, 76, 1) 48%, rgba(200, 238, 247, 1) 95%);
 }
+
+ .Icon{
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        height: auto;
+        overflow: hidden;
+        
+    }
+
+    .responsive-img{
+    width:100%
+}
+
+  .name {
+    /* Set the text fill color to transparent */
+    color: rgb(255, 253, 253); 
+    /* Apply the stroke: width and color */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    }
+
+    h1 {
+    font-size: 4em;
+    font-family: "Marker Felt", fantasy;
+    font-weight: 800em;
+    letter-spacing: 0.05em;
+
+}
+
+h3{
+    font-size: 5em;
+}
+
+p{
+    font-size: 1.5em;
+}
