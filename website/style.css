@@ -4,3 +4,12 @@ body {
     font-style: normal;
     background-color: #c8eef7;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background: #FFD14C;
+background: linear-gradient(180deg, rgba(255, 209, 76, 1) 0%, rgba(255, 209, 76, 1) 48%, rgba(200, 238, 247, 1) 95%);
+}
